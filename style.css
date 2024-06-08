@@ -1,0 +1,13 @@
+/* Color Theme Swatches in Hex */
+/*
+.background { color: #A3BFB5; }
+.Ilustração-2-hex { color: #F2F1F0; }
+.Ilustração-3-hex { color: #BF2604; }
+.destaque { color: #8C1C03; }
+.principal { color: #400101; } 
+*/
+
+html {
+    background:  #A3BFB5;
+    color: #400101;
+}
