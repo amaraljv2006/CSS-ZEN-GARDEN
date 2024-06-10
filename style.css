@@ -19,7 +19,7 @@ position: relative;
 
 #design-selection {
     position: absolute;
-top: 560px; 
+top: 430px; 
 left: 62%;
 padding-left: 1%;
 padding-right: 1
@@ -135,4 +135,28 @@ flex-basis: 50%;
 
 .participation h3, .participation{
     align-self: center;
+}
+
+a{
+    color:#8C1C03;
+}
+
+a:hover {
+    color: #7d17005c;
+}
+
+.main p:first-of-type::first-letter {
+    font-size: 3em;
+    font-family:'Times New Roman', Times, serif;
+    float: left; 
+}
+
+.design-selection li {
+    border-top: #A3BFB5 solid 1px;
+    padding-top: 5px;
+}
+
+.design-selection li:last-of-type{
+border-bottom: #1f295c 1px;
+padding-bottom: 5px;
 }
